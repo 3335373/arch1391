@@ -1,0 +1,42 @@
+    size(600, 500);
+    background(255);    // Setting the background to white
+stroke(0);          // Setting the outline (stroke) to black
+          // Setting the interior of a shape (fill) to grey 
+rect(50,50,37,50);
+rect(87,75,37,50);
+rect(124,100,37,50);
+fill(#FFFACE);
+rect(161,125,37,50);
+fill(#FFFACE);
+rect(198,150,37,50);
+fill(#FFF59D);
+rect(235,175,37,50);
+fill(#FFF27E);
+rect(272,200,37,50);
+fill(#FFE600);
+rect(309,225,37,50);
+fill(#FFF27E);
+rect(346,250,37,50);
+fill(#FFFACE);
+rect(383,275,37,50);
+fill(255);
+rect(420,300,37,50);
+fill(255);
+rect(457,325,37,50);
+fill(255);
+textSize(12);
+ fill(#000000);
+ text ("12:00",35,120);
+  text ("2:00",70,140);
+   text ("4:00",110,170);
+  text ("6:00",150,190);
+   text ("8:00",185,220);
+    text ("10:00",220,240);
+     text ("12:00",255,270);
+      text ("14:00",290,290);
+      text ("16:00",330,320);
+      text ("18:00",365,340);
+      text ("20:00",400,370);
+      text ("22:00",440,390);
+      text ("24:00",480,390);
+      text ("Day-lighting from morning to night",110,400);
